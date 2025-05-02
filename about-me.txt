@@ -1,0 +1,1 @@
+This a text about me, Thomas. I am writing this as a pre-course for the Java Accelerator course by HTD Talent.
